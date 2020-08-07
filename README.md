@@ -81,10 +81,12 @@ chmod 777 arch_install.sh
 ```
 
 ### Docker
+
+```
 # Forked this repo from https://github.com/thewhiteh4t
 # Changed the DockerFile to deploy this seeker container in EL7 based image from registry.redhat.io
 # Demo/Lab Purpose 
-
+```
 
 ```bash
 # Install docker
