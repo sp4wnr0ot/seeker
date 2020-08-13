@@ -142,4 +142,4 @@ python3 seeker.py --subdomain google
 
 ## Demo
 
-# seeker-el7
+# seeker por centos
