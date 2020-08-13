@@ -87,7 +87,7 @@ chmod 777 arch_install.sh
 # Changed the DockerFile to deploy this seeker container in "centos" based image from hub.docker.com
 # Demo/Lab Purpose 
 # OpenShift 
-# oc import-image centos --from=hub.docker.com/centos 
+# oc import-image centos --from=docker.io/centos  --confirm
 ```
 
 ```bash
