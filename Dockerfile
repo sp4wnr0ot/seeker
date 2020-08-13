@@ -1,3 +1,6 @@
+# hub.docker.com
+# docker pull centos
+
 FROM centos
 WORKDIR seeker/
 RUN echo "America/Sao_Paulo" > /etc/timezone
