@@ -1,4 +1,4 @@
-FROM rhel7
+FROM centos
 WORKDIR seeker/
 RUN echo "America/Sao_Paulo" > /etc/timezone
 RUN yum update > install.log
