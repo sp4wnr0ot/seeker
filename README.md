@@ -84,8 +84,10 @@ chmod 777 arch_install.sh
 
 ```
 # Forked this repo from https://github.com/thewhiteh4t
-# Changed the DockerFile to deploy this seeker container in EL7 based image from registry.redhat.io
+# Changed the DockerFile to deploy this seeker container in "centos" based image from hub.docker.com
 # Demo/Lab Purpose 
+# OpenShift 
+# oc import-image centos --from=hub.docker.com/centos 
 ```
 
 ```bash
